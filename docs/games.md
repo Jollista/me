@@ -21,6 +21,8 @@ It's my first ever horror game and I tried my best to base it on what I find sca
 ![hall](img/midnightoil/hallway.jpg){: style="width:48%;"}
 ![laundry](img/midnightoil/laundry.jpg){: style="width:48%;"}
 
+[:fontawesome-brands-itch-io: Play The Midnight Oil on itch.io](https://jollista.itch.io/the-midnight-oil){ .md-button }
+
 ## Lazarus
 ![lazbanner](img/lazarus/LazarusBanner.png)
 
@@ -33,12 +35,16 @@ I really gotta use Unreal more, but blueprints ended up kinda annoying me and I'
 ![carint](img/lazarus/Car%20int.JPG){: style="width:48%;"}
 ![dialogue](img/lazarus/Dialogue.JPG){: style="width:48%;"}
 
+[:fontawesome-brands-itch-io: Play Lazarus on itch.io](https://jollista.itch.io/lazarus){ .md-button }
+
 ## No Leg Up
 Made with **Godot 4** for my school's Game Development Club, and my first successful group game project. The initial concept was a "no legs platformer" where you shift gravity instead of jumping and walking and stuff. It was originally supposed to be more of a puzzle platformer, but it ended up being more about precision, owing to a lot of inspiration from Celeste. 
 
 I made all the levels as well all the art for the sansundertale level, and like half of the mechanics. I've been told it's very hard, and that's partly because the player's velocity isn't capped, but we never got around to implementing a terminal velocity. Also for the sans level since it's just one hit and you're dead it's even more difficult. Even still, I'm a little disappointed in my own lack of content with that because there's no ending reward or anything, so it's a bit anticlimactic.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uJvrjdpbtO0?si=29jeI6uWHHzhtDF-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+[:fontawesome-brands-itch-io: Play No Leg Up on itch.io](https://the64threalm.itch.io/no-leg-up){ .md-button }
 
 ## Queenmaker
 Made with **Godot 4** for a game jam I didn't have time for, it's a barely functional game that I delisted from itch because it sucks. The only part about it that I at all was even somewhat ok with was the narrative, but even then it was just a lame Hollow Knight knockoff.

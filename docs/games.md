@@ -18,6 +18,7 @@ Made with Godot **4.1.1** for a Halloween Jam for my school's Game Dev Club. I m
 
 It's my first ever horror game and I tried my best to base it on what I find scary, personally. Visually it was inspired a lot by *Inscryption* and I think that came across well. Like I accomplished what I sought out to with the game, but I'm not really satisfied with the end result as a whole because I feel like it's not a very fun *game* and that it ends pretty abruptly.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ck_h3ERMd_Y?si=M6t4vAvHFQ6Eirrz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 ![hall](img/midnightoil/hallway.jpg){: style="width:48%;"}
 ![laundry](img/midnightoil/laundry.jpg){: style="width:48%;"}
 
@@ -26,10 +27,11 @@ It's my first ever horror game and I tried my best to base it on what I find sca
 ## Lazarus
 ![lazbanner](img/lazarus/LazarusBanner.png)
 
-Made with **Unreal 5**, a game about undead at the end of the world. I made it for the Summer Slow Jams 2023 Narrative jam as an excuse to force myself to learn Unreal. I didn't end up using Unreal as much as I probably should've and ended up mostly just making stuff with Blender and putting together music. Half of the game's music was made by [@summer_cashier](https://twitter.com/summer_cashier)!
+Made with **Unreal 5**, a game about undead at the end of the world. I made it for the Summer Slow Jams 2023 Narrative jam as an excuse to learn Unreal. I also got to learn a bunch about how to use Blender, which was incredibly fun. Half of the game's music was made by [@summer_cashier](https://twitter.com/summer_cashier)!
 
-I really gotta use Unreal more, but blueprints ended up kinda annoying me and I'm not smart enough for C++. Still, I just gotta do it, especially C++ because I need a job, man.
+I really want to use Unreal more, but I haven't quite had the time for it in addition to the projects I'm already working on. In the meantime, though, I've been practicing C++ a lot more so I can be more confident when I get to work more in Unreal.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BDJeg5kPOnU?si=TICUooPvmmgUeXGS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 ![angel](img/lazarus/Angel.JPG){: style="width:48%;"}
 ![carext](img/lazarus/Car%20ext.JPG){: style="width:48%;"}
 ![carint](img/lazarus/Car%20int.JPG){: style="width:48%;"}

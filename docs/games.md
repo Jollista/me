@@ -3,13 +3,16 @@ This is a little space for me to document some stuff about some of the games I'v
 
 ## Slime Hop
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zMh9ywE4fVI?si=XsNISW1SYRJICtf7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kn8intQOk7U?si=BOw7gl516ZqVdKj2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Currently being made with Godot **4.1.1**, it's still a work in progress! Unlike most of my games, it's a group project with a few other people from the Game Development Club at my school. My contributions so far aren't huge, mainly just the implementation of buttons and blocks, and a silly little undertale reference level.
 
 I'm really proud of the Undyne fight level, because I feel like I took the good parts of the sans level in No Leg Up but changed the parts that I didn't like (thanks to the people who playtested that sans level, btw). It has a health mechanic, much more content, and it's organized better in godot's file system as well as being just generally coded a bit better I think. I'm also much more proud of the artwork I put into it, even though it's still pretty rough haha
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zMh9ywE4fVI?si=XsNISW1SYRJICtf7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 ![slimepurtAndUndyne](img/slimehop/SlimepurtAndUndyne.jpg)
+
+[:fontawesome-brands-itch-io: Play Slime Hop on itch.io](https://piggyfriend.itch.io/slime-hop){ .md-button }
 
 ## The Midnight Oil
 ![oilbanner](img/midnightoil/midnightoil.JPG)

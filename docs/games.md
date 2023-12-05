@@ -55,3 +55,14 @@ I made all the levels as well all the art for the sansundertale level, and like 
 Made with **Godot 4** for a game jam I didn't have time for, it's a barely functional game that I delisted from itch because it sucks. The only part about it that I at all was even somewhat ok with was the narrative, but even then it was just a lame Hollow Knight knockoff.
 
 Still, I did win $50 because of it, so that's cool.
+
+## Dockside
+![dockside](img/dockside/dockside.png){: style="width:60%"}
+
+Made with **Unity**, Dockside is a cozy game about fishing. This was my first proper foray into game development. I don't like it, but I think it's ok for what it was. Made in a group of six people (though only four did much). I did a bit more than half of the programming, and we also had another programmer who made the fishing minigame (the half I didn't do), and two very lovely artists both visual and auditory.
+
+![gordon](img/dockside/gordon.gif){: style="width:48%;"}
+![fishing1](img/dockside/fishing1.gif){: style="width:48%;"}
+![fishing2](img/dockside/fishing2.gif){: style="width:48%;"}
+![selling](img/dockside/selling.gif){: style="width:48%;"}
+![festival](img/dockside/festival.gif){: style="width:96%;"}

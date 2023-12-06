@@ -1,6 +1,14 @@
 # Software!
 Here's a collection of miscellaneous software stuff I made. I like programming :)
 
+## GameHunt
+
+[GameHunt](https://game-hunt.vercel.app/) is a web app for tracking when games go on sale across multiple storefronts. Made with two other folks using Node, HTML, CSS, blah blah blah.
+
+![mostfollowed](img/gamehunt/mostfollowed.png){: style="width:47%"}
+![search](img/gamehunt/searchgame.png){: style="width:51%"}
+![followed](img/gamehunt/followedgames.png)
+
 ## FLATLINE
 ![flatline](img/flatline/Capture.JPG)
 

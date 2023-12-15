@@ -2,7 +2,6 @@ site_name: Jollista
 theme:
   name: material
   logo: img/logo.png
-  favicon: img/favicon.ico
   features:
     - header.autohide
     - navigation.instant

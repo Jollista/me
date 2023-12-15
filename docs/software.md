@@ -11,6 +11,10 @@ Same motivation I had for FLATLINE motivated me to make DATA.POOL. Here's its [d
 
 I had a lot of fun messing with the discord API and then a lot of pain figuring out how to deploy it. Ain't it always the way.
 
+But it does work! And you can even invite it to your own server of TTRPG enthusiats! 
+
+[:fontawesome-brands-discord: DATA.POOL](https://discord.com/oauth2/authorize?client_id=1179341761991159908&permissions=2147485696&scope=bot){ .md-button }
+
 ![rolls](img/datapool/datapool-rolls.gif)
 ![items](img/datapool/datapool-items.gif)
 

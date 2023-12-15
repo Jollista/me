@@ -3,11 +3,14 @@ Here's a collection of miscellaneous software stuff I made. I like programming :
 
 ## DATA.POOL
 
+![datapool](img/datapool/datapool.png){: align="right" style="width:50%"}
+
 [DATA.POOL](https://jollista.github.io/DATA.POOL/) is a discord bot assistant for Cyberpunk RED.
 
 Same motivation I had for FLATLINE motivated me to make DATA.POOL. Here's its [documentation](https://jollista.github.io/DATA.POOL/), and its [GitHub repository](https://github.com/jollista/DATA.POOL/).
 
-![datapool](img/datapool/datapool.png){: style="width:50%"}
+I had a lot of fun messing with the discord API and then a lot of pain figuring out how to deploy it. Ain't it always the way.
+
 ![rolls](img/datapool/datapool-rolls.gif)
 ![items](img/datapool/datapool-items.gif)
 

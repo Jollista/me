@@ -13,3 +13,4 @@ My name is Jollista (not really) and my pronouns are she/her (really). I don't h
 ## Links
 [:fontawesome-brands-github: GitHub](https://github.com/Jollista/){ .md-button }
 [:fontawesome-brands-itch-io: itch.io](https://jollista.itch.io/){ .md-button }
+[:octicons-heart-fill-24: Ko-fi](https://ko-fi.com/jollista){ .md-button }

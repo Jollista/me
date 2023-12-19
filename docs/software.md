@@ -3,8 +3,6 @@ Here's a collection of miscellaneous software stuff I made. I like programming :
 
 ## DATA.POOL
 
-![datapool](img/datapool/datapool.png){: align="right" style="width:50%"}
-
 [DATA.POOL](https://jollista.github.io/DATA.POOL/) is a discord bot assistant for Cyberpunk RED.
 
 Same motivation I had for FLATLINE motivated me to make DATA.POOL. Here's its [documentation](https://jollista.github.io/DATA.POOL/), and its [GitHub repository](https://github.com/jollista/DATA.POOL/).
@@ -17,6 +15,8 @@ But it does work! And you can even invite it to your own server of TTRPG enthusi
 
 ![rolls](img/datapool/datapool-rolls.gif)
 ![items](img/datapool/datapool-items.gif)
+![rules](img/datapool/datapool-rules.gif)
+![verif](img/datapool/datapool-verify.gif)
 
 ## GameHunt
 

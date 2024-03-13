@@ -22,9 +22,6 @@ markdown_extensions:
 
 nav:
   - Home: index.md
-  - Games: games.md
-  - Software: software.md
-#  - Music: music.md
 
 extra_css:
   - stylesheets/extra.css
